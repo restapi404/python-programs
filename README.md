@@ -40,7 +40,3 @@ This project detects objects, avoids obstacles, identifies traffic light colors,
 
 ## License
 This project is licensed under the MIT License.
-=======
-"# project overview" 
-detects objects, avoids obstacles, detects colors of traffic light, speaks out detected objects and estimated distance
->>>>>>> 6a41ca6de751d2d387f4742564ca9c3fe54a1767
